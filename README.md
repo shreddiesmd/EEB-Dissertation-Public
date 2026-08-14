@@ -4,20 +4,20 @@ Project title: Identifying a Signal of Climate Drivers on the Reproductive Succe
 
 This repository contains annotated R code (version 4.6.0), with subsequent model outputs and figures used to assess climate driver associations with the reproductive success of Southern Giant Petrels and Atlantic Yellow-nosed Albatrosses on Gough Island. 
 
-This repository does not contain the data provided to complete the project: the climate data are owned by the South African Weather Service, and the breeding data are owned by the Tristain de Cunha Government and the Royal Society for the Protection of Birds. 
+This repository does not contain the data provided to complete the project: the climate data are owned by the South African Weather Service, and the breeding data are owned by the Tristan de Cunha Government and the Royal Society for the Protection of Birds. 
 
 ## Repository Structure
 This repository has been organised into sub-directories accordingly:
 
 `Scripts/` contain the annotated R code used for data processing, candidate window analysis, Bayesian analysis, and figure generation. 
 
-`Figures/` contain the the figures and plots produced for analysis. 
+`Figures/` contain the figures and plots produced for analysis. 
 
 `Candidate Window AIC Outputs/` contain tables with all model AIC values generated from biologically defined candidate window analysis. 
 
 `Model summaries/` contain .txt files with Bayesian model summary outputs.
 
-`Model diagnostics/` contain the the posterior convergence plots and robustness diagnostics for each Bayesian model. 
+`Model diagnostics/` contain the posterior convergence plots and robustness diagnostics for each Bayesian model. 
 
 ## FAIR Data Principles
 
@@ -27,4 +27,4 @@ This repository has been organised into sub-directories accordingly:
 
 **Interoperable:** Scripts and outputs are provided in commonly used formats, including `.R`, `.csv` and `.txt`, with consistent variable names. 
 
-**Reusable:** Annotated R scripts document the data processing and statistical analysis workflow, while model outputs and figures are retained to support interpretation and reproducibility of study methodology. Reuse of the original data is subject to respective data owners. 
+**Reusable:** Annotated R scripts document the data processing and statistical analysis workflow, while model outputs and figures are retained to support interpretation and reproducibility of study methodology. Reuse of the original data is subject to the respective data owners. 
