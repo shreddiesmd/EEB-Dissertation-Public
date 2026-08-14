@@ -1,0 +1,19 @@
+ Family: bernoulli 
+  Links: mu = logit 
+Formula: outcome ~ 1 + (1 | Year) 
+   Data: SGPE_breeding (Number of observations: 2195) 
+  Draws: 3 chains, each with iter = 3000; warmup = 1000; thin = 1;
+         total post-warmup draws = 6000
+
+Multilevel Hyperparameters:
+~Year (Number of levels: 13) 
+              Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+sd(Intercept)     0.69      0.16     0.45     1.06 1.00     1158     1656
+
+Regression Coefficients:
+          Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+Intercept     0.30      0.20    -0.12     0.69 1.00      769     1175
+
+Draws were sampled using sampling(NUTS). For each parameter, Bulk_ESS
+and Tail_ESS are effective sample size measures, and Rhat is the potential
+scale reduction factor on split chains (at convergence, Rhat = 1).
