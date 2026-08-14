@@ -8,4 +8,8 @@ This repository does not contain the data provided to complete the project: the 
 
 ### Repository Structure
 This repository has been organised into sub-directories accordingly:
-TBD...
+Scripts/ contain the annotated R code used for data processing, candidate window analysis, Bayesian analysis, and figure generation. 
+Figures/ contain the the figures and plots produced for analysis. 
+Candidate Window AIC Outputs/ contains tables with all model AIC values generated from biologically defined candidate window analysis. 
+Model summaries/ contain .txt files with Bayesian model summary outputs.
+Model diagnostics/ contain the the posterior convergence plots and robustness diagnostics for each Bayesian model. 
