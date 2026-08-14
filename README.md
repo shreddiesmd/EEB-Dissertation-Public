@@ -6,7 +6,7 @@ This repository contains annotated R code (version 4.6.0), with subsequent model
 
 This repository does not contain the data provided to complete the project: the climate data are owned by the South African Weather Service, and the breeding data are owned by the Tristain de Cunha government and the Royal Society for the Protection of Birds. 
 
-### Repository Structure
+## Repository Structure
 This repository has been organised into sub-directories accordingly:
 
 `Scripts/` contain the annotated R code used for data processing, candidate window analysis, Bayesian analysis, and figure generation. 
@@ -19,7 +19,7 @@ This repository has been organised into sub-directories accordingly:
 
 `Model diagnostics/` contain the the posterior convergence plots and robustness diagnostics for each Bayesian model. 
 
-### FAIR Data Principles
+## FAIR Data Principles
 
 Findable: 
 
