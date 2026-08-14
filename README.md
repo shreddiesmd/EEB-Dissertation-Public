@@ -13,8 +13,18 @@ This repository has been organised into sub-directories accordingly:
 
 `Figures/` contain the the figures and plots produced for analysis. 
 
-`Candidate Window AIC Outputs/' contain tables with all model AIC values generated from biologically defined candidate window analysis. 
+`Candidate Window AIC Outputs/` contain tables with all model AIC values generated from biologically defined candidate window analysis. 
 
 `Model summaries/` contain .txt files with Bayesian model summary outputs.
 
 `Model diagnostics/` contain the the posterior convergence plots and robustness diagnostics for each Bayesian model. 
+
+### FAIR Data Principles
+
+Findable: 
+
+Accessible:
+
+Interoperable:
+
+Reusable: 
