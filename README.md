@@ -1,7 +1,6 @@
 # EEB-Dissertation-Public
-Project title: Identifying a Signal of Climate Drivers on the Reproductive Success of Southern Giant Petrels and Atlantic Yellow-nosed Albatrosses on Gough Island
-
 ### Public repository with code used to complete Dissertation for Ecology, Evolution and Biodiversity MSc, University of Edinburgh. 
+Project title: Identifying a Signal of Climate Drivers on the Reproductive Success of Southern Giant Petrels and Atlantic Yellow-nosed Albatrosses on Gough Island
 
 This repository contains annotated R code (version 4.6.0), with subsequent model outputs and figures used to assess climatic associations with the reproductive success of Southern Giant Petrels and Atlantic Yellow-nosed Albatrosses on Gough Island. 
 
