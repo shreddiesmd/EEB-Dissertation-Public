@@ -21,10 +21,10 @@ This repository has been organised into sub-directories accordingly:
 
 ## FAIR Data Principles
 
-Findable: 
+**Findable:** Repository materials are organised into clearly labelled directories with descriptive file names and README documentation for easy access.
 
-Accessible:
+**Accessible:** Analysis scripts, figures and model outputs are publicly available through this repository. Raw data are not provided because they are owned by third-party data providers; their sources and access restrictions are documented above.
 
-Interoperable:
+**Interoperable:** Scripts and outputs are provided in commonly used formats, including `.R`, `.csv` and `.txt`, with consistent variable names. 
 
-Reusable: 
+**Reusable:** Annotated R scripts document the data processing and statistical analysis workflow, while model outputs and figures are retained to support interpretation and reproducibility of study methodology. Reuse of the original data is subject to respective data owners. 
