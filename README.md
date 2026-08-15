@@ -1,4 +1,4 @@
-# EEB-Dissertation-Public
+# Dissertation - Public Repository
 ### Public repository with code used to complete Dissertation for Ecology, Evolution and Biodiversity MSc, University of Edinburgh. 
 Project title: Identifying a Signal of Climate Drivers on the Reproductive Success of Southern Giant Petrels and Atlantic Yellow-nosed Albatrosses on Gough Island
 
